@@ -1,0 +1,5 @@
+10000;Windows installation;lweshafreelencer@gmail.com;2024-07-22;Mon Jul 22 03:31:22 EAT 2024
+5000;Network troubleshooting;lweshafreelencer@gmail.com;2024-07-22;Mon Jul 22 03:31:47 EAT 2024
+7000;Antivirus installation;lweshafreelencer@gmail.com;2024-07-22;Mon Jul 22 03:33:05 EAT 2024
+50000;Medical service;jacobswilla@gmail.com;2024-07-21;Sun Jul 21 22:51:23 EAT 2024
+30000;Selling medicines;jacobswilla@gmail.com;2024-07-21;Sun Jul 21 22:52:52 EAT 2024

@@ -1,0 +1,4 @@
+Kelvin;John;Lwesha;Male;0678426612;lweshafreelencer@gmail.com;lwesha@6te9;Mon Jul 22 03:30:31 EAT 2024
+Kelvin;John;Lwesha;Male;0678426612;lweshafreelencer@gmail.com;6te99te6;Mon Jul 22 03:30:31 EAT 2024
+Emily;Jacob;Swilla;Male;0632738748;jacobswilla@gmail.com;54321;Sun Jul 21 22:45:18 EAT 2024
+Kelvin;John;Lwesha;Male;0678426612;lweshafreelencer@gmail.com;br@6te9;Mon Jul 22 03:30:31 EAT 2024
